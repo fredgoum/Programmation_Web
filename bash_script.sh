@@ -1,0 +1,1 @@
+makeblastdb -in colimin.fasta -dbtype prot -max_file_sz '50GB' -out colimin | blastp -query coliquery.fasta -db colimin -outfmt '7 qseqid sseqid qlen slen length pident evalue' 

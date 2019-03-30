@@ -1,0 +1,222 @@
+# BLASTP 2.2.31+
+# Query: BC1T_00001 | BC1G_00001 | Botrytis cinerea (B05.10) predicted protein (173 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 8 hits found
+BC1T_00001	BC1T_00001	173	173	173	100.00	4e-119
+BC1T_00001	BC1T_00005	173	245	24	45.83	0.76
+BC1T_00001	BC1T_00005	173	245	25	32.00	1.9
+BC1T_00001	BC1T_00020	173	482	45	35.56	1.1
+BC1T_00001	BC1T_00008	173	350	23	39.13	3.0
+BC1T_00001	BC1T_00008	173	350	45	28.89	3.2
+BC1T_00001	BC1T_00009	173	515	14	50.00	3.8
+BC1T_00001	BC1T_00009	173	515	24	45.83	8.5
+# BLASTP 2.2.31+
+# Query: BC1T_00002 | BC1G_00002 | Botrytis cinerea (B05.10) predicted protein (121 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 4 hits found
+BC1T_00002	BC1T_00002	121	121	121	100.00	1e-89
+BC1T_00002	BC1T_00020	121	482	20	40.00	2.8
+BC1T_00002	BC1T_00020	121	482	39	28.21	4.6
+BC1T_00002	BC1T_00011	121	264	44	29.55	3.8
+# BLASTP 2.2.31+
+# Query: BC1T_00003 | BC1G_00003 | Botrytis cinerea (B05.10) conserved hypothetical protein (324 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 5 hits found
+BC1T_00003	BC1T_00003	324	324	324	100.00	0.0
+BC1T_00003	BC1T_00009	324	515	45	28.89	4.0
+BC1T_00003	BC1T_00020	324	482	19	31.58	5.1
+BC1T_00003	BC1T_00008	324	350	45	31.11	8.0
+BC1T_00003	BC1T_00008	324	350	47	21.28	8.8
+# BLASTP 2.2.31+
+# Query: BC1T_00004 | BC1G_00004 | Botrytis cinerea (B05.10) copper methylamine oxidase precursor (362 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 4 hits found
+BC1T_00004	BC1T_00004	362	362	362	100.00	0.0
+BC1T_00004	BC1T_00007	362	74	7	85.71	2.5
+BC1T_00004	BC1T_00017	362	86	29	34.48	2.6
+BC1T_00004	BC1T_00020	362	482	25	36.00	3.6
+# BLASTP 2.2.31+
+# Query: BC1T_00005 | BC1G_00005 | Botrytis cinerea (B05.10) predicted protein (245 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 2 hits found
+BC1T_00005	BC1T_00005	245	245	245	100.00	8e-180
+BC1T_00005	BC1T_00001	245	173	24	45.83	1.3
+# BLASTP 2.2.31+
+# Query: BC1T_00006 | BC1G_00006 | Botrytis cinerea (B05.10) conserved hypothetical protein (36 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 4 hits found
+BC1T_00006	BC1T_00006	36	36	36	100.00	9e-24
+BC1T_00006	BC1T_00009	36	515	18	33.33	2.2
+BC1T_00006	BC1T_00008	36	350	18	38.89	2.9
+BC1T_00006	BC1T_00020	36	482	18	38.89	4.3
+# BLASTP 2.2.31+
+# Query: BC1T_00007 | BC1G_00007 | Botrytis cinerea (B05.10) predicted protein (74 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 5 hits found
+BC1T_00007	BC1T_00007	74	74	74	100.00	1e-49
+BC1T_00007	BC1T_00004	74	362	7	85.71	0.51
+BC1T_00007	BC1T_00019	74	85	33	21.21	0.56
+BC1T_00007	BC1T_00008	74	350	16	31.25	3.8
+BC1T_00007	BC1T_00009	74	515	8	50.00	5.1
+# BLASTP 2.2.31+
+# Query: BC1T_00008 | BC1G_00008 | Botrytis cinerea (B05.10) receptor expression-enhancing protein 4 (350 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 9 hits found
+BC1T_00008	BC1T_00008	350	350	350	100.00	0.0
+BC1T_00008	BC1T_00020	350	482	60	21.67	0.12
+BC1T_00008	BC1T_00011	350	264	20	45.00	2.6
+BC1T_00008	BC1T_00012	350	439	20	45.00	4.7
+BC1T_00008	BC1T_00009	350	515	22	31.82	5.3
+BC1T_00008	BC1T_00009	350	515	23	43.48	8.4
+BC1T_00008	BC1T_00001	350	173	23	39.13	6.9
+BC1T_00008	BC1T_00003	350	324	45	31.11	8.2
+BC1T_00008	BC1T_00003	350	324	47	21.28	10.0
+# BLASTP 2.2.31+
+# Query: BC1T_00009 | BC1G_00009 | Botrytis cinerea (B05.10) conserved hypothetical protein (515 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 7 hits found
+BC1T_00009	BC1T_00009	515	515	515	100.00	0.0
+BC1T_00009	BC1T_00016	515	45	7	71.43	4.8
+BC1T_00009	BC1T_00011	515	264	33	33.33	5.4
+BC1T_00009	BC1T_00012	515	439	42	28.57	5.6
+BC1T_00009	BC1T_00003	515	324	45	28.89	6.4
+BC1T_00009	BC1T_00008	515	350	22	31.82	6.5
+BC1T_00009	BC1T_00017	515	86	5	100.00	8.0
+# BLASTP 2.2.31+
+# Query: BC1T_00010 | BC1G_00010 | Botrytis cinerea (B05.10) methylthioribose-1-phosphate isomerase (441 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 3 hits found
+BC1T_00010	BC1T_00010	441	441	441	100.00	0.0
+BC1T_00010	BC1T_00012	441	439	44	29.55	1.9
+BC1T_00010	BC1T_00019	441	85	16	31.25	8.0
+# BLASTP 2.2.31+
+# Query: BC1T_00011 | BC1G_00011 | Botrytis cinerea (B05.10) predicted protein (264 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 9 hits found
+BC1T_00011	BC1T_00011	264	264	264	100.00	0.0
+BC1T_00011	BC1T_00012	264	439	181	99.45	1e-128
+BC1T_00011	BC1T_00017	264	86	27	44.44	0.17
+BC1T_00011	BC1T_00015	264	68	20	45.00	0.34
+BC1T_00011	BC1T_00014	264	108	28	25.00	1.2
+BC1T_00011	BC1T_00008	264	350	20	45.00	2.0
+BC1T_00011	BC1T_00009	264	515	33	33.33	2.8
+BC1T_00011	BC1T_00020	264	482	23	21.74	6.8
+BC1T_00011	BC1T_00002	264	121	56	26.79	9.1
+# BLASTP 2.2.31+
+# Query: BC1T_00012 | BC1G_00012 | Botrytis cinerea (B05.10) predicted protein (439 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 8 hits found
+BC1T_00012	BC1T_00012	439	439	439	100.00	0.0
+BC1T_00012	BC1T_00011	439	264	181	99.45	2e-128
+BC1T_00012	BC1T_00015	439	68	20	45.00	0.43
+BC1T_00012	BC1T_00010	439	441	44	29.55	1.7
+BC1T_00012	BC1T_00014	439	108	27	25.93	2.8
+BC1T_00012	BC1T_00017	439	86	27	44.44	3.8
+BC1T_00012	BC1T_00009	439	515	41	29.27	4.9
+BC1T_00012	BC1T_00008	439	350	20	45.00	5.9
+# BLASTP 2.2.31+
+# Query: BC1T_00013 | BC1G_00013 | Botrytis cinerea (B05.10) predicted protein (62 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 8 hits found
+BC1T_00013	BC1T_00013	62	62	62	100.00	1e-42
+BC1T_00013	BC1T_00009	62	515	29	34.48	0.21
+BC1T_00013	BC1T_00020	62	482	6	100.00	0.32
+BC1T_00013	BC1T_00020	62	482	12	41.67	5.0
+BC1T_00013	BC1T_00020	62	482	9	44.44	6.8
+BC1T_00013	BC1T_00008	62	350	10	50.00	2.0
+BC1T_00013	BC1T_00003	62	324	13	46.15	2.2
+BC1T_00013	BC1T_00004	62	362	10	50.00	2.4
+# BLASTP 2.2.31+
+# Query: BC1T_00014 | BC1G_00014 | Botrytis cinerea (B05.10) predicted protein (108 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 5 hits found
+BC1T_00014	BC1T_00014	108	108	108	100.00	1e-71
+BC1T_00014	BC1T_00011	108	264	71	23.94	2.2
+BC1T_00014	BC1T_00012	108	439	71	23.94	5.8
+BC1T_00014	BC1T_00004	108	362	21	33.33	6.5
+BC1T_00014	BC1T_00005	108	245	66	24.24	8.2
+# BLASTP 2.2.31+
+# Query: BC1T_00015 | BC1G_00015 | Botrytis cinerea (B05.10) predicted protein (68 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 5 hits found
+BC1T_00015	BC1T_00015	68	68	68	100.00	9e-49
+BC1T_00015	BC1T_00012	68	439	20	45.00	0.067
+BC1T_00015	BC1T_00011	68	264	20	45.00	0.096
+BC1T_00015	BC1T_00003	68	324	15	40.00	4.5
+BC1T_00015	BC1T_00017	68	86	10	50.00	9.9
+# BLASTP 2.2.31+
+# Query: BC1T_00016 | BC1G_00016 | Botrytis cinerea (B05.10) predicted protein (45 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 7 hits found
+BC1T_00016	BC1T_00016	45	45	45	100.00	2e-29
+BC1T_00016	BC1T_00009	45	515	7	71.43	1.2
+BC1T_00016	BC1T_00009	45	515	5	80.00	3.0
+BC1T_00016	BC1T_00009	45	515	8	50.00	6.8
+BC1T_00016	BC1T_00004	45	362	9	44.44	2.2
+BC1T_00016	BC1T_00010	45	441	11	45.45	4.7
+BC1T_00016	BC1T_00017	45	86	5	80.00	5.4
+# BLASTP 2.2.31+
+# Query: BC1T_00017 | BC1G_00017 | Botrytis cinerea (B05.10) predicted protein (86 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 10 hits found
+BC1T_00017	BC1T_00017	86	86	86	100.00	4e-60
+BC1T_00017	BC1T_00011	86	264	27	44.44	0.047
+BC1T_00017	BC1T_00018	86	155	21	38.10	0.49
+BC1T_00017	BC1T_00004	86	362	29	34.48	0.62
+BC1T_00017	BC1T_00012	86	439	27	44.44	0.79
+BC1T_00017	BC1T_00009	86	515	5	100.00	1.3
+BC1T_00017	BC1T_00020	86	482	10	60.00	1.7
+BC1T_00017	BC1T_00020	86	482	16	43.75	8.5
+BC1T_00017	BC1T_00008	86	350	31	29.03	6.3
+BC1T_00017	BC1T_00005	86	245	19	42.11	9.6
+# BLASTP 2.2.31+
+# Query: BC1T_00018 | BC1G_00018 | Botrytis cinerea (B05.10) predicted protein (155 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 2 hits found
+BC1T_00018	BC1T_00018	155	155	155	100.00	6e-117
+BC1T_00018	BC1T_00017	155	86	21	38.10	0.88
+# BLASTP 2.2.31+
+# Query: BC1T_00019 | BC1G_00019 | Botrytis cinerea (B05.10) predicted protein (85 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 8 hits found
+BC1T_00019	BC1T_00019	85	85	85	100.00	3e-59
+BC1T_00019	BC1T_00007	85	74	33	21.21	0.64
+BC1T_00019	BC1T_00020	85	482	14	28.57	0.98
+BC1T_00019	BC1T_00020	85	482	15	40.00	4.5
+BC1T_00019	BC1T_00010	85	441	16	31.25	1.6
+BC1T_00019	BC1T_00010	85	441	27	37.04	2.7
+BC1T_00019	BC1T_00003	85	324	39	23.08	5.4
+BC1T_00019	BC1T_00009	85	515	6	66.67	5.7
+# BLASTP 2.2.31+
+# Query: BC1T_00020 | BC1G_00020 | Botrytis cinerea (B05.10) predicted protein (482 aa)
+# Database: colimin
+# Fields: query id, subject id, query length, subject length, alignment length, % identity, evalue
+# 8 hits found
+BC1T_00020	BC1T_00020	482	482	482	100.00	0.0
+BC1T_00020	BC1T_00008	482	350	60	21.67	0.15
+BC1T_00020	BC1T_00001	482	173	45	35.56	2.3
+BC1T_00020	BC1T_00013	482	62	6	100.00	3.0
+BC1T_00020	BC1T_00004	482	362	25	36.00	4.8
+BC1T_00020	BC1T_00019	482	85	14	28.57	5.6
+BC1T_00020	BC1T_00003	482	324	19	31.58	7.6
+BC1T_00020	BC1T_00017	482	86	10	60.00	9.6
+# BLAST processed 20 queries

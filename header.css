@@ -1,0 +1,108 @@
+/*Navigation itself*/
+
+.topnav{
+	background-color: black;
+	overflow: hidden;
+	font-family: Arial,sans-serif;
+	width:100%;
+}
+
+.topnav a{
+	float:left;
+	color:#170B3B;
+	text-align: center;
+	font-size: 15px;
+	padding:14px 16px;
+	color:white;
+}
+
+.topnav_hovered{
+	background-color: #29088A;
+	color:white;
+}
+
+.topnav_active{
+	background-color: #29088A;
+	color:white;
+}
+
+/*Dropdown menu
+* Will be used for different tools using the database*/
+
+.dropdown{
+	float:left;
+	overflow:hidden;
+}
+
+.dropdown .dropbtn{
+	background-color: black;
+	color:white;
+	border: none;
+	outline:none;
+	padding: 16px 16px;
+	font-family: inherit;
+	margin:0;
+}
+
+.dropdown-content{
+	display:none;
+	position:absolute;
+	background-color:black;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index:1;
+	overflow:auto;
+	min-width:150px;
+}
+
+.dropdown-content a{
+	float:none;
+	color: white;
+	padding: 12px 16px;
+	display:block;
+	text-align:center;
+}
+
+.dropdown_actcontent{
+	color:white;
+	display:block;
+}
+
+.dropdown-content a:hover{
+	background-color:#29088A;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn{
+	background-color:#29088A;
+}
+
+.dropdown:hover .dropdown-content{
+	display:block;
+}
+
+.connect_text{
+	text-align:right;
+	font-family:Arial,non-serif;
+	font-size:12px;
+	display:block;
+	padding:14px 16px;
+	color:white;
+}
+
+/*Header*/
+
+.center{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+}
+
+.header{
+	background: url('images/ombre.png') repeat-x bottom;
+	/*display: flex;*/
+	justify-content: space-between;
+    /*align-items: flex-end;*/
+	height: 114px;
+}
+
+
